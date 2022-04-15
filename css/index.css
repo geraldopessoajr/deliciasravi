@@ -1,0 +1,53 @@
+.navbar{   
+        background-color: #ffc0cb;
+}
+
+.menu {
+	margin-bottom: 25px;
+}
+
+.app {
+	margin-top: 25px;
+}
+
+.pagina {
+	border:solid 1px #ffc0cb;
+	padding:25px !important;
+}
+
+.menu{
+    background-color: #ffc0cb;
+}
+
+.list-group{
+    border: 0px; 
+    width: auto;
+    height: auto;
+}
+
+
+.list-group .list-group-item{
+    width: auto;
+    height: auto;
+    border: 0px;
+    padding: 5px;
+}
+
+
+
+
+li a {
+	text-decoration: none;
+	color: #212529;
+        padding: 0px;
+        font-size: 14px;
+}
+
+li a :hover {
+	text-decoration: none;
+        background-color: #ffc0cb;
+}
+
+h2 {
+    color: #ffc0cb;
+}
